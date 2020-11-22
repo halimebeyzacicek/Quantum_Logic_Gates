@@ -8,19 +8,19 @@ Logic Gates folder have 2 folder. <br/>
 
 
 ## Gates
-01)Not(X)
-02)Y
-03)Z
-04)Hadamard
-05)S
-06)S^t
-07)T
-08)T^t
-09)Rx
-10)Ry
-11)CNOT
-12)CZ
-13)CY
-14)SWAP
-15)CCX(Toffoli)
-16)KontrollüSwap(Franklin)
+01)Not(X)<br/>
+02)Y<br/>
+03)Z<br/>
+04)Hadamard<br/>
+05)S<br/>
+06)S^t<br/>
+07)T<br/>
+08)T^t<br/>
+09)Rx<br/>
+10)Ry<br/>
+11)CNOT<br/>
+12)CZ<br/>
+13)CY<br/>
+14)SWAP<br/>
+15)CCX(Toffoli)<br/>
+16)KontrollüSwap(Franklin)<br/>
